@@ -21,8 +21,8 @@ body {
 	background-image: url('../media/clock-img3.png');
 	width: 400px;
 	height: 400px;
-	border-radius: 50px;
-	border: 2px solid #93B34C;
+	border-radius: 10px;
+	border: 1px solid #93B34C;
 	margin: 0 auto;
 	box-shadow: 1px 1px 8px 1px #93B34C, -1px -1px 1px 0px #93B34C;
 	display: flex;
@@ -125,7 +125,7 @@ body {
 
 
 /* mobile layout: 320px */
-@media only screen and  (max-width: 767px)
+/* @media only screen and  (max-width: 767px)
 {          
 
 	.clock {
@@ -133,4 +133,4 @@ body {
 		width: 400px;
 	}
              
-}
+} */
